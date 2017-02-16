@@ -19,4 +19,8 @@ body {
 .img-medium {
     height: 200px;
 }
-
+ .A {
+        max-width: 800px;
+        margin:0 auto;
+        color: #a73c3c;
+     } 
