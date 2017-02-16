@@ -14,11 +14,11 @@ app.get('/article_one', function(reg,res){
 });
 
 app.get('/article_two', function(reg,res){
-    res.send('The article two is here..2')
+    res.send('The article two is here..2');
 });
 
 app.get('/article_three', function(reg,res){
-    res.send('The article three is here..3')
+    res.send('The article three is here..3');
 });
 
 app.get('/ui/style.css', function (req, res) {
